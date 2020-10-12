@@ -1,0 +1,119 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Gamja Flower', cursive;
+    background-color: #fffff2;
+}
+
+header {
+    text-align: center;
+    border: 4px thin #050401;
+    background-color: #e4572e;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+/*button {
+    background-color: #000;
+    color: #fff;
+    box-shadow: 3px 3px 0 0 #e4572e ;
+    margin-left: 15%;
+    margin-right: 15%;
+}*/
+
+.add {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    color: #000;
+    text-shadow: 2px 2px #fff;
+}
+
+.header{
+    color: #fff;
+}
+
+.article1 {
+    color:#000;
+
+}
+
+.article2 {
+    color: #000;
+}
+
+.top-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid #050401 ;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    margin-right: 25%;
+    margin-left: 25%;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.img1 {
+    float: right;
+}
+
+.bottom-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px solid #050401 ;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    margin-top: 10px;
+    margin-right: 25%;
+    margin-left: 25%;
+    margin-bottom: 15px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+.img2 {
+    float: right;
+}
+
+.footer1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.footer2 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 2px;
+}
+
+.FirstName {
+    display: inline-block;
+    margin-top: 2px;
+    margin-left: 40%;
+    box-shadow: 3px 3px 0 0 #e4572e;
+}
+
+.Email {
+    display: inline-block;
+    margin-left: 10px;
+    box-shadow: 3px 3px 0 0 #e4572e;
+}
+
+.Submit {
+    display: inline-block;
+    margin-left: 1%;
+    box-shadow: 3px 3px 0 0 #e4572e;
+}
+
+.footer3 {
+    margin-top: 2px;
+    text-align: center;
+}
